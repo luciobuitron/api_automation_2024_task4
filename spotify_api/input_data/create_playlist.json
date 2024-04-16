@@ -1,0 +1,39 @@
+{
+  "collaborative": false,
+  "description": "New Playlist description #05:25:46, Apr 16 2024 (From Fixture)",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/6RwWvJLNzmwR7zWDXW0dzc"
+  },
+  "followers": {
+    "href": null,
+    "total": 0
+  },
+  "href": "https://api.spotify.com/v1/playlists/6RwWvJLNzmwR7zWDXW0dzc",
+  "id": "6RwWvJLNzmwR7zWDXW0dzc",
+  "images": [],
+  "primary_color": null,
+  "name": "New Playlist #05:25:46, Apr 16 2024 (From Fixture)",
+  "type": "playlist",
+  "uri": "spotify:playlist:6RwWvJLNzmwR7zWDXW0dzc",
+  "owner": {
+    "href": "https://api.spotify.com/v1/users/cabe38a3a52d4b46a4018c693a201a70",
+    "id": "cabe38a3a52d4b46a4018c693a201a70",
+    "type": "user",
+    "uri": "spotify:user:cabe38a3a52d4b46a4018c693a201a70",
+    "display_name": null,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/cabe38a3a52d4b46a4018c693a201a70"
+    }
+  },
+  "public": true,
+  "snapshot_id": "NDYzLDcxNDBlNTk0ZWQ3MWI0MmQwMGM5MjdiYzYxZDc2YjIzZjU0NzRhMmE=",
+  "tracks": {
+    "limit": 100,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "href": "https://api.spotify.com/v1/playlists/6RwWvJLNzmwR7zWDXW0dzc/tracks",
+    "total": 0,
+    "items": []
+  }
+}

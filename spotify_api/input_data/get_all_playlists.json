@@ -1,0 +1,40 @@
+{
+  "href": "https://api.spotify.com/v1/users/312vih3vepthrzoqcnalign7ub74/playlists?offset=0&limit=50&locale=en%2Ces%3Bq%3D0.8%2Cit%3Bq%3D0.7%2Cde%3Bq%3D0.5%2Cpt-BR%3Bq%3D0.3%2Cfr%3Bq%3D0.2",
+  "limit": 50,
+  "next": "https://api.spotify.com/v1/users/312vih3vepthrzoqcnalign7ub74/playlists?offset=50&limit=50&locale=en%2Ces%3Bq%3D0.8%2Cit%3Bq%3D0.7%2Cde%3Bq%3D0.5%2Cpt-BR%3Bq%3D0.3%2Cfr%3Bq%3D0.2",
+  "offset": 0,
+  "previous": null,
+  "total": 150,
+  "items": [
+    {
+      "collaborative": false,
+      "description": "New Playlist description #04:52:21, Apr 16 2024 (From Fixture)",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6oLzpP9uQVwNTn2iQ0KN11"
+      },
+      "href": "https://api.spotify.com/v1/playlists/6oLzpP9uQVwNTn2iQ0KN11",
+      "id": "6oLzpP9uQVwNTn2iQ0KN11",
+      "images": null,
+      "name": "New Playlist #04:52:21, Apr 16 2024 (From Fixture)",
+      "owner": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/312vih3vepthrzoqcnalign7ub74"
+        },
+        "href": "https://api.spotify.com/v1/users/312vih3vepthrzoqcnalign7ub74",
+        "id": "312vih3vepthrzoqcnalign7ub74",
+        "type": "user",
+        "uri": "spotify:user:312vih3vepthrzoqcnalign7ub74",
+        "display_name": "LucioBP"
+      },
+      "public": true,
+      "snapshot_id": "MSw5OWU1ZTM0MDIxNjY3OTk2NTRjNThhODBiZGJmNTJmMTFjYzY1Zjg0",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/6oLzpP9uQVwNTn2iQ0KN11/tracks",
+        "total": 0
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:6oLzpP9uQVwNTn2iQ0KN11",
+      "primary_color": null
+    }
+  ]
+}
